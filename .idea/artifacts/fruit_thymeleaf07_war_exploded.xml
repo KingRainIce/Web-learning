@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="fruit-thymeleaf07:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/fruit_thymeleaf07_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="fruit-thymeleaf07" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-java-5.1.49" />
+          <element id="library" level="project" name="thymeleaf_lib" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="fruit-thymeleaf07/web/Web" />
+    </root>
+  </artifact>
+</component>

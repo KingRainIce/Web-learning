@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Web-learning.iml" filepath="$PROJECT_DIR$/Web-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flitter-listener/flitter-listener.iml" filepath="$PROJECT_DIR$/flitter-listener/flitter-listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fruit/fruit.iml" filepath="$PROJECT_DIR$/fruit/fruit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fruit-thymeleaf/fruit-thymeleaf.iml" filepath="$PROJECT_DIR$/fruit-thymeleaf/fruit-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fruit-thymeleaf01/fruit-thymeleaf01.iml" filepath="$PROJECT_DIR$/fruit-thymeleaf01/fruit-thymeleaf01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fruit-thymeleaf02/fruit-thymeleaf02.iml" filepath="$PROJECT_DIR$/fruit-thymeleaf02/fruit-thymeleaf02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fruit-thymeleaf03/fruit-thymeleaf03.iml" filepath="$PROJECT_DIR$/fruit-thymeleaf03/fruit-thymeleaf03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fruit-thymeleaf04/fruit-thymeleaf04.iml" filepath="$PROJECT_DIR$/fruit-thymeleaf04/fruit-thymeleaf04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fruit-thymeleaf05/fruit-thymeleaf05.iml" filepath="$PROJECT_DIR$/fruit-thymeleaf05/fruit-thymeleaf05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fruit-thymeleaf06/fruit-thymeleaf06.iml" filepath="$PROJECT_DIR$/fruit-thymeleaf06/fruit-thymeleaf06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fruit-thymeleaf07/fruit-thymeleaf07.iml" filepath="$PROJECT_DIR$/fruit-thymeleaf07/fruit-thymeleaf07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlet-api/servlet-api.iml" filepath="$PROJECT_DIR$/servlet-api/servlet-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web01/web/web.iml" filepath="$PROJECT_DIR$/web01/web/web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web01/web01.iml" filepath="$PROJECT_DIR$/web01/web01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web02/web02.iml" filepath="$PROJECT_DIR$/web02/web02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web03/web03.iml" filepath="$PROJECT_DIR$/web03/web03.iml" />
+    </modules>
+  </component>
+</project>

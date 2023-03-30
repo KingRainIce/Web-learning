@@ -1,0 +1,2 @@
+1. Edit Configurations 配置时不加 .html 后缀，原因是 xml 文件中配置了后缀和前缀
+2.
